@@ -44,7 +44,6 @@ gsap.to("#main",{
     scrollTrigger:{
         trigger:"#main",
         scroller:"body",
-        markers:true,
         start:"top -25%",
         end:"top -70%",
         scrub:2,
@@ -83,7 +82,6 @@ gsap.from("#colon1",{
     scrollTrigger:{
         trigger:"#colon1",
         scroller:"body",
-        markers:true,
         star:"top 55%",
         end:"top 45%",
         scrub:4,
@@ -96,7 +94,6 @@ gsap.from("#colon2",{
     scrollTrigger:{
         trigger:"#colon2",
         scroller:"body",
-        markers:true,
         star:"top 55%",
         end:"top 45%",
         scrub:4,
