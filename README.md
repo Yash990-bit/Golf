@@ -22,7 +22,7 @@ This project is a modern, interactive web page with custom cursor animations, a 
 
 2. Navigate to the project directory:
     ```bash
-    cd projectname
+    cd Golf
     ```
 
 3. Open the `index.html` file in your browser to view the project.
